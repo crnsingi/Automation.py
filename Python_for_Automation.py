@@ -1,3 +1,8 @@
+# Useful when a company receives monthly reports in separate files 
+# 🐍 Python for Automation (Excel + pandas + openpyxl)
+# Consolidate multiple Excel files into one
+
+
 import pandas as pd
 import glob
 
